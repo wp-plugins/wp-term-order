@@ -1,4 +1,4 @@
-=== WP Term Meta ===
+=== WP Term Order ===
 Contributors: johnjamesjacoby
 Tags: taxonomy, term, order
 Requires at least: 4.2
