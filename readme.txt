@@ -19,6 +19,10 @@ Activate in the "Plugins" network admin panel using the "Activate" link.
 
 When activating for an entire network, each site will have it's own ordering.
 
+== Screenshots ==
+
+1. Drag and drop your categories, tags, and custom taxonomy terms
+
 == Frequently Asked Questions ==
 
 = Does this create new database tables? =
